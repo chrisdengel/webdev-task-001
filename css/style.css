@@ -1,0 +1,64 @@
+* {
+    background-color: rgb(48, 46, 46);
+    font-size: 1.5rem;
+}
+.heading {
+    color: white;
+    font-size: 3em;    
+    box-sizing: border-box;
+    text-align: center;
+    padding: .5em;
+    margin: .5em;
+    border-color: rgb(72, 194, 234);
+    background-color: gray;
+}
+
+
+strong {
+    color: rgb(219, 228, 184);
+
+}
+
+.container1 {
+    color: white;
+    font-size: 3em;    
+    box-sizing: border-box;
+    padding: .5em;
+    margin: .5em;
+    text-align: center;
+    background-color: rgb(90, 88, 88);
+
+}
+
+.container2 {
+    color: white;
+    font-size: 1.5em;    
+    box-sizing: border-box;
+    padding: .5em;
+    margin: .5em;
+    background-color: rgb(90, 88, 88);
+
+
+}
+
+.p2 {
+    color: white;
+}
+
+li {
+    color: rgb(87, 153, 87);
+
+}
+
+a {
+    color: rgb(219, 228, 184);
+
+}
+
+a:visited{
+    color: rgb(219, 228, 184);
+  }
+  
+  #li {
+    color: pink;
+  }
